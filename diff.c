@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 
 	initintque(&p);
 	initintque(&q);
-	initintque(&r);  //  majhya r madhe file 2 che LCS cha postion ahee and in s I have the file 1 ka position
+	initintque(&r); 
 	initintque(&s);
 	init(&t);
 	init(&u);
